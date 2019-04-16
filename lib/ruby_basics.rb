@@ -20,9 +20,9 @@ def return_a_value
 end
 
 def last_evaluated_value
-  puts "expert"
+  "expert"
 end
 
 def pizza_party(arg = "cheese")
-  arg
+  arg #ok
 end
